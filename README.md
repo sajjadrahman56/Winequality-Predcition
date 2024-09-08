@@ -1,1 +1,10 @@
-# e2e-ml
+# Winequality-Predcition
+
+## Workflow
+- - - 
+- Data Ingestion
+- Data Validation
+- Data Transformatio
+
+### Model 
+- ElasticNet Model ( Linear Model ) 
