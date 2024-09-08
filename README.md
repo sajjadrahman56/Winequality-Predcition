@@ -1,7 +1,7 @@
 # Winequality-Predcition
 
 ## Workflow
-- - - 
+
 - Data Ingestion
 - Data Validation
 - Data Transformatio
