@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import urllib.request as request
 import zipfile
 from src.wine_quality.logging import logger

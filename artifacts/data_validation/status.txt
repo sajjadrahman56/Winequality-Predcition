@@ -1,0 +1,12 @@
+Column 'fixed acidity' dtype matches the expected dtype.
+Column 'volatile acidity' dtype matches the expected dtype.
+Column 'citric acid' dtype matches the expected dtype.
+Column 'residual sugar' dtype matches the expected dtype.
+Column 'chlorides' dtype matches the expected dtype.
+Column 'free sulfur dioxide' dtype matches the expected dtype.
+Column 'total sulfur dioxide' dtype matches the expected dtype.
+Column 'density' dtype matches the expected dtype.
+Column 'pH' dtype matches the expected dtype.
+Column 'sulphates' dtype matches the expected dtype.
+Column 'alcohol' dtype matches the expected dtype.
+Data Validation status : True
