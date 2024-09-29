@@ -4,6 +4,9 @@
 
 This project aims to predict the quality of wine based on various chemical properties using an **ElasticNet** model, which is a linear regression technique that combines both L1 (Lasso) and L2 (Ridge) regularization. The project is designed to showcase an end-to-end machine learning workflow, including data ingestion, validation, transformation, model training, evaluation, and deployment.
 
+## Workflow 
+![workflows](https://github.com/user-attachments/assets/2b8a0b7e-422a-46a2-86bd-b77d2e9c1150)
+
 ## Workflow Breakdown
 
 <details>
@@ -37,7 +40,7 @@ This project aims to predict the quality of wine based on various chemical prope
   The performance of the ElasticNet model is evaluated on the test set. Various metrics such as **MSE**, **R²**, and **Cross-Validation Score** are reported to analyze the model’s predictive power. Hyperparameter tuning using **Grid Search** or **Random Search** is performed to optimize model parameters such as the alpha value for regularization.
 </details>
 
- 
+
 
 ---
 
